@@ -4,4 +4,4 @@ Hola, me llamo Tomas Rodriguez Spuch
 - No puedo estar mas de dos horas sin tomar mate
 - Adjunto foto para que se respeten los rangos
 - 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FLaNumero12tv%2Fstatus%2F633066059969511424&psig=AOvVaw03pGh5iTkLRmWcVcROYJGQ&ust=1711476897495000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiV5LKCkIUDFQAAAAAdAAAAABAE">
+![La mitad mas uno](https://github.com/pdepviernestm/2024-presentacion-tomasRodriguezSpuch/assets/164683452/0b5a69f8-3dc8-4b27-af31-353af81069fe)
